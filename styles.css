@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FFF0F0;;
+}
+
+table {
+  text-align:justify;
+  margin: auto;
+  width: 60%;
+  line-height: 1.5;
+}
+
+.dotted{
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #FFF0F0;
+  border-width: 10px;
+  background-color:#EBD4D4;
+}
+
+.Options{
+
+background-color: #EBD4D4;
+padding: 60px;
+
+
+}
+
+.Options a{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #835858;
+  margin-right: 50px;
+}
+
+
+.hidden{
+  visibility: hidden;
+}
+
+
+hr {
+  background-color: #835858;
+  height: 2px;
+  border: none;
+  margin:0px;
+  opacity: 70%;
+}
+
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  color: #FFF0F0;
+}
+
+.PN {
+  font-family: 'Rampart One', cursive;
+  font-size: 50px;
+  color: #835858;
+  margin: auto;
+
+}
+
+h2 {
+  font-family: 'Rampart One', cursive;
+  font-size: 30px;
+  color: #835858;
+  margin: 1 auto 1 auto;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  color: #463333;
+  font-weight: bolder;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  color: #463333;
+}
+
+.Kép {
+  border-radius: 50%;
+  width: 200px;
+  }
+
+.cook{
+  width: 200px;
+}
+
+.design{
+  width: 200px;
+}
+
+.top-container {
+  background-color: #EBD4D4;
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.flowers {
+  position: absolute;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  left: 10px;
+  bottom: 2px;
+}
+
+.flowers2 {
+  position: absolute;
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+  right: 10px;
+  top: 10px;
+}
+
+.skill-row{
+  width: 10 0%;
+  margin: auto;
+}
+
+.cooking{
+  text-align: left;
+}
+
+.ikonok{
+  width: 20px;
+
+}
+.ikonok a{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #835858;
+  margin-right: 50px;
+}
+
+.btn{
+    background-color:#835858;
+    color:#EBD4D4;
+    font-size: 26px;
+    padding: 10px;
+    border: none;
+  border-radius: 15px;
+  box-shadow: 0 7px #999;
+}
+
+.btn:hover{
+  background-color:#EBD4D4;
+  color: #835858;
+}
+
+.bottom-container{
+  background-color: #EBD4D4;
+  padding: 5  0px;
+}
